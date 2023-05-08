@@ -1,1 +1,3 @@
+
 nadpisana błędna wersja do odtworzenia a
+dodanie nowej eksperymentalnej funkcjonalnosci
